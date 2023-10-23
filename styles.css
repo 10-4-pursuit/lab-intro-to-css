@@ -1,0 +1,53 @@
+h1 {
+    color: purple;
+    font-family: Fantasy;
+    font-size: 30px;
+    text-align: center; /* 3 */
+  }
+
+h2 {
+    text-shadow: 5px 5px 8px #00FF00; /* 7 */
+}
+
+h3 {
+    text-decoration: underline;
+    text-shadow: 5px 5px 10px #f10989; /* 10 */
+  }
+
+ol {
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 30px;
+}
+
+li {
+    color: blue;
+    background-color: lightpink;
+    border: 1px solid red;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: 5px 10px 10px; /* 4 */
+    font-family:monospace; /* 6 */
+  }
+
+  body {
+    font-family: sans-serif;
+    cursor: wait; /* 5 */
+    background-color: white; /* 8 */
+    background-image: radial-gradient(rgb(149, 58, 222), #d4b4b4, #c46a8f); /* 9 */
+  }
+
+  p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-style: italic; /* 1 */
+    text-shadow: 2px 1px red; /* 2 */
+  }
+
+  img {
+    height: 200px
+  }
