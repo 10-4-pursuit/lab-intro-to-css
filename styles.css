@@ -1,0 +1,62 @@
+
+
+h1 {
+    color: purple;
+    font-family: fantasy;
+}
+
+ol {
+    font-weight: bold;
+    padding-left: 30px;
+    list-style: none;
+}
+
+ul{
+    padding-left: 25px;
+    list-style: none;
+}
+
+li {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: lightpink;
+    color: blue;
+
+}
+
+img {
+    height: 200px;
+
+}
+
+body{
+    font-family: sans-serif;
+    color: purple;
+    background-color: aqua;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+a{
+    color: purple;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 14%;
+  }
+
