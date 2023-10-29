@@ -1,0 +1,62 @@
+h1 {
+    font-family: fantasy;
+    color: rgb(128, 0, 128);
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+   
+  }
+  
+  h3 {
+    text-decoration: underline;
+    color: rgb(233, 233, 80)
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  ol {
+    font-weight: bold;
+    padding-left: 30px; 
+    color: rgb(142, 18, 237)
+    
+  }
+  
+  li {
+    margin: 5px 0;
+    color: blue; 
+    text-align: center;
+    background-color: rgb(234, 113, 196);
+    border-radius: 10px;
+    border: 1px solid red; 
+    padding-left: 30px;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto; 
+    height: 200px;
+         
+  }
+  
+  body {
+    font-family: sans-serif;
+    background-color: #d11aa0; 
+    margin: 0; 
+    padding: 0; 
+  }
+  
+  p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: serif;
+    font-size: large;
+    font-weight: 600;
+    font-style: oblique;
+    color:rgba(23, 11, 238, 0.935)
+
+  }
+  
+  
