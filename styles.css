@@ -1,0 +1,50 @@
+body {
+    font-size: sans-serif;
+}
+    
+    
+ol {
+    font-weight: bold;
+
+}
+
+li {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 5px;
+    color: blue;
+    background-color: lightpink;
+    
+}
+
+img {
+    height: 200px;
+    border-radius: 15px;
+    border: 2px solid #0e27e7;
+    box-shadow: 5px 5px 5px #d43434;
+    opacity: 0.5;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+h1 {
+    font-size: 30px;
+}
+
+li {
+   padding-left: 30px; 
+}
+
+h2 {
+    color: magenta;
+    font-size: 2em;
+    text-decoration: line-through;
+}
