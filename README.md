@@ -18,14 +18,14 @@ In this lab, you'll have the opportunity to design a personal webpage. The conte
 
 To complete the tests in this lab, you will need to add the following styles. If you're unclear about any of the instructions below, remember that you can check the test file to see what exactly is being tested.
 
-- Change the font of the name header to be `'Fantasy'` and purple.
-- Remove the bullet points from your unordered list of links.
-- Change the `font-weight` in your ordered list to bold.
+- Change the font of the name header to be `'Fantasy'` and purple. 
+- Remove the bullet points from your unordered list of links. 
+- Change the `font-weight` in your ordered list to bold. 
 - Center all `li` elements on the page.
-- Give your `li` elements a 1px red border with curved corners.
-- Change the font color of your `li` elements to blue and the background color to a light pink.
+- Give your `li` elements a 1px red border with curved corners. 
+- Change the font color of your `li` elements to blue and the background color to a light pink. 
 - All images should be 200 pixels tall.
-- Change all font in the body to sans-serif.
+-  Change all font in the body to sans-serif.
 - Underline all `h3` elements.
 - All `p` tags should have 20 pixels of padding on the top and the bottom - not on the sides.
 - `h1` tags should have a 30px font size.
