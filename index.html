@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+  
+
   <head>
     <meta charset="utf-8" />
     <title>CSS Intro</title>
-  </head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    
+    <style>
+      #name-header {
+        font-family: 'Fantasy', cursive;
+        color: purple;
+      }
+    </style>
+ </head>
+
+
   <body>
-    <h1>Your Name Here</h1>
+    <h1 id="name-header">Your Name Here</h1>
     <div>
       <p>
         This is a bunch of information about myself. I'm from here and there and
@@ -15,13 +27,14 @@
     </div>
 
     <img
-      src="https://www.breakthrough-pt.com/wp-content/uploads/2014/11/female-default-profile-photo.png"
+      src="https://static.vecteezy.com/system/resources/previews/002/318/271/original/user-profile-icon-free-vector.jpg"
       alt=""
     />
 
     <div>
       <h3>Here are some of my Skills!</h3>
-      <ul>
+      <ul >
+        
         <h3>Languages</h3>
         <li>JavaScript</li>
         <li>SQL</li>
@@ -29,7 +42,7 @@
         <li>CSS3</li>
       </ul>
 
-      <ol>
+      <ol id="list">
         <h3>Libraries</h3>
         <li>React</li>
         <li>PostgreSQL</li>
