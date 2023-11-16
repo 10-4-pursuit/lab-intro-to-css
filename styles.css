@@ -1,0 +1,66 @@
+h1{
+    font-family: fantasy;
+    font-weight: bold;
+    color: purple;
+}
+
+h1{
+    background-color: orange; 
+    opacity: .40;
+    border-radius: 10px;
+    border: solid 1px orchid
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol{
+    font-weight: bold;
+}
+
+li{
+    text-align: center;;
+    border-radius: 25px;
+    border: solid 1px red;
+    color: blue;
+    background-color: lightpink;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    padding-left: 30px;
+    border: solid 2px lightpink
+}
+
+body{
+    font-family: sans-serif;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-style: italic;
+    
+}
+
+h1{
+    font-size: 30px;
+}
+
+ul, ol{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h2{
+    text-decoration: overline underline;
+    color:blueviolet
+}
+
+
